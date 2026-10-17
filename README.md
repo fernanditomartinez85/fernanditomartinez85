@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Fernando%20Martínez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20·%20Machine%20Learning%20·%20IA&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Fernando%20Martínez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20Data%20Analyst%20·%20Machine%20Learning%20·%20IA&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="mailto:fernandito.martinez85@gmail.com"><img src="https://img.shields.io/badge/Email-contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Abierto%20a-primera%20oportunidad-2ea44f?style=for-the-badge"/>
@@ -9,7 +9,7 @@
 
 ## 👋 Sobre mí
 
-Vengo de la **gestión administrativa**, donde aprendí a trabajar con mucha información, a detectar errores y a mantener procesos en orden. Ahora uso esas mismas costumbres para lo que más me gusta: **sacar conclusiones útiles de los datos**.
+Soy **Data Analyst junior**. Vengo de la **gestión administrativa**, donde aprendí a trabajar con mucha información, a detectar errores y a mantener procesos en orden. Ahora uso esas mismas costumbres para lo que más me gusta: **sacar conclusiones útiles de los datos**.
 
 - 🎓 **Máster en Big Data** (terminado)
 - 🤖 **Máster en Inteligencia Artificial** (cursando ahora mismo)
