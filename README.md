@@ -13,7 +13,6 @@ Soy **Data Analyst junior**. Vengo de la **gestión administrativa**, donde apre
 
 - 🎓 **Máster en Big Data** (terminado)
 - 🤖 **Máster en Inteligencia Artificial** (cursando ahora mismo)
-- ⚽ En mi tiempo libre construyo **modelos predictivos de resultados deportivos** con datos reales
 - 🎯 Busco mi primera oportunidad como **Data Analyst / Data Scientist junior**
 
 ## 🛠️ Tecnologías
